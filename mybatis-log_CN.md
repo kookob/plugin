@@ -2,7 +2,7 @@
 [![mybatis-log-plugin](https://img.shields.io/jetbrains/plugin/d/13905-mybatis-log-plugin?style=flat-square)](https://plugins.jetbrains.com/plugin/13905-mybatis-log-plugin/versions)
 ![](https://visitor-badge.glitch.me/badge?page_id=mybatis-log-plugin)
 
-### [English](https://github.com/kookob/mybatis-log-plugin/blob/master/README_EN.md)  
+### [English](https://github.com/kookob/plugin/blob/master/mybatis-log.md)  
 
 # MyBatis Log Plugin
 ## 插件功能
@@ -11,7 +11,7 @@
 - 选中要还原的`MyBatis`日志，右键点击菜单`Restore Sql`，还原`SQL`语句.
 - `Java`接口方法与`Mapper xml`文件互相跳转。
 
-![](https://plugins.jetbrains.com/files/13905/25-page/image1.png)
+![](https://plugins.jetbrains.com/files/13905/340-page/image238.png)
 
 ## 按钮作用
 - **Text**: 从文本内容还原`SQL`语句
@@ -52,8 +52,15 @@ MyBatis Log Test: ERROR sql4 - ==>  Parameters:
  FROM t_table order by id asc;
 ```
 
+## 图片展示 
+![](https://plugins.jetbrains.com/files/13905/340-page/image239.png)  
+![](https://plugins.jetbrains.com/files/13905/340-page/image240.png)  
+![](https://plugins.jetbrains.com/files/13905/340-page/image241.png)  
+![](https://plugins.jetbrains.com/files/13905/340-page/image242.png)  
+![](https://plugins.jetbrains.com/files/13905/340-page/image243.png)  
+
 ## 安装下载
-[mybatis-log-plugin.jar](https://plugins.jetbrains.com/plugin/13905-mybatis-log-plugin/versions)  
+[mybatis-log-plugin](https://plugins.jetbrains.com/plugin/13905-mybatis-log-plugin/versions)  
 
 ## 价格
 `$5/year`  
@@ -64,6 +71,7 @@ https://www.yuque.com/kookob/plugin
 
 ## 其他插件
 * [MyBatis Log Plugin](https://plugins.jetbrains.com/plugin/13905-mybatis-log-plugin) 
+* [JPA SQL](https://plugins.jetbrains.com/plugin/14384-toolset) 
 * [Smart Jump](https://plugins.jetbrains.com/plugin/14053-smart-jump) 
 * [Smart Search](https://plugins.jetbrains.com/plugin/14615-smart-search)
 * [Toolset](https://plugins.jetbrains.com/plugin/14384-toolset) 
