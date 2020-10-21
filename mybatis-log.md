@@ -52,7 +52,7 @@ MyBatis Log Plugin output executable sql statements:
  FROM t_table order by id asc;
 ```
 
-## Plugin Images 
+## Pictures
 ![](https://plugins.jetbrains.com/files/13905/340-page/image239.png)  
 ![](https://plugins.jetbrains.com/files/13905/340-page/image240.png)  
 ![](https://plugins.jetbrains.com/files/13905/340-page/image241.png)  
