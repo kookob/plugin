@@ -154,6 +154,17 @@ I will continue to develop and improve when I have time in the follow-up. At pre
 - [ ] Picture related processing
 - [ ] QR code generation and recognition
 
----
-
 To be continue...
+
+## Download
+[Toolset](https://plugins.jetbrains.com/plugin/14384-toolset/versions)  
+
+## Price
+`$5/year`
+
+## Plugins
+* [MyBatis Log Plugin](https://plugins.jetbrains.com/plugin/13905-mybatis-log-plugin) 
+* [JPA SQL](https://plugins.jetbrains.com/plugin/15242-jpa-sql) 
+* [Smart Jump](https://plugins.jetbrains.com/plugin/14053-smart-jump) 
+* [Smart Search](https://plugins.jetbrains.com/plugin/14615-smart-search)
+* [Toolset](https://plugins.jetbrains.com/plugin/14384-toolset) 

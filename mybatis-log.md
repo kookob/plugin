@@ -67,7 +67,7 @@ MyBatis Log Plugin output executable sql statements:
 
 ## Plugins
 * [MyBatis Log Plugin](https://plugins.jetbrains.com/plugin/13905-mybatis-log-plugin) 
-* [JPA SQL](https://plugins.jetbrains.com/plugin/14384-toolset) 
+* [JPA SQL](https://plugins.jetbrains.com/plugin/15242-jpa-sql) 
 * [Smart Jump](https://plugins.jetbrains.com/plugin/14053-smart-jump) 
 * [Smart Search](https://plugins.jetbrains.com/plugin/14615-smart-search)
 * [Toolset](https://plugins.jetbrains.com/plugin/14384-toolset) 
